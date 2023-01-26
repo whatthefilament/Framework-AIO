@@ -17,9 +17,9 @@ For assembly, you will need the following:
 - 1 - M2 x 6mm Self tap Screw
 - 30 - 6mm x 3mm Magnets
 
-- A small mallet/hammer to press in magenets (They are deisgned to be tight)
+- A small mallet/hammer to press in magnets (They are designed to be tight)
 - M3 hex key
-- Small phillips head screwdriver
+- Small head phillips head screwdriver
 - Soldering iron or other similar heat press insert tool
 
 
