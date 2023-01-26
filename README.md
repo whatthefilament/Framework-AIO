@@ -35,9 +35,9 @@ The main case has an overall dimension is 301.15mm x 231mm x 21.
 
 Thought many of the parts can be printed on a smaller printer. The main chassis and bezel will need a printer that can accommodate at least 301mm. 
 
-#
+## Mounting Options
 
-In addition to the stock stand i've also included a 75mm VESA mount option for mounting on monitor arms.
+In addition to the stock desk stand i've also included a 75mm VESA mount option for mounting on monitor arms.
 
 I've uploaded the step files for the model as well, feel free to modify the design however you'd like. 
 
