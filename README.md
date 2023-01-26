@@ -41,6 +41,7 @@ In addition to the stock stand i've also included a 75mm VESA mount option for m
 
 I've uploaded the step files for the model as well, feel free to modify the design however you'd like. 
 
+#
 
 ![Back Render](https://github.com/whatthefilament/Framework-AIO/blob/main/Images/Framework%20AIO.jpg)
 ![Exploded 1](https://github.com/whatthefilament/Framework-AIO/blob/main/Images/Exploded1.jpg)
