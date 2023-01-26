@@ -42,10 +42,8 @@ In addition to the stock stand i've also included a 75mm VESA mount option for m
 I've uploaded the step files for the model as well, feel free to modify the design however you'd like. 
 
 
-![Tablet](https://github.com/whatthefilament/Framework-Tablet/blob/main/Images/Framework%20Tablet%20V1.3%20Chargy%20Speaker%20Boi.png)
-![Tablet2](https://github.com/whatthefilament/Framework-Tablet/blob/main/Images/Framework%20Tablet%20V1.3%20Chargy%20Speaker%20Boi2.png)
-![Tablet3](https://github.com/whatthefilament/Framework-Tablet/blob/main/Images/Framework%20Tablet%20V1.3%20Chargy%20Speaker%20Boi3.png)
-![Tablet4](https://github.com/whatthefilament/Framework-Tablet/blob/main/Images/Framework%20Tablet%20V1.3%20Chargy%20Speaker%20Boi4.png)
-![Tablet5](https://github.com/whatthefilament/Framework-Tablet/blob/main/Images/Framework%20Tablet%20V1.3%20Chargy%20Speaker%20Boi5.png)
+![Back Render](https://github.com/whatthefilament/Framework-AIO/blob/main/Images/Framework%20AIO.jpg)
+![Exploded 1](https://github.com/whatthefilament/Framework-AIO/blob/main/Images/Exploded1.jpg)
+![Exploded 2](https://github.com/whatthefilament/Framework-AIO/blob/main/Images/Exploded2.jpg)
 
  
