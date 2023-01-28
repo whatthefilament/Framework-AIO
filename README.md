@@ -21,7 +21,7 @@ For assembly, you will need the following:
 - M3 hex key
 - Small head Phillips screwdriver (the one that comes with the Framework laptop works great)
 - Soldering iron or other similar heat press insert tool
-
+#
 From the laptop itself you will need the following:
 
 - Mainboard
