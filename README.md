@@ -5,7 +5,7 @@ I've used as many OEM Framework parts as possible.
 
 ## Assembly
 
-[Build Instructions](https://www.instructables.com/Framework-Tablet-Assembly-Manual/)
+[Build Instructions](https://www.instructables.com/Framework-AIO-Assembly/)
 
 To help organize parts for this project, feel free to check out my [Framework parts tray](https://www.printables.com/model/253099-framework-parts-tray)
 
@@ -19,8 +19,20 @@ For assembly, you will need the following:
 
 - A small mallet/hammer to press in magnets (They are designed to be tight)
 - M3 hex key
-- Small head phillips head screwdriver
+- Small head Phillips screwdriver (the one that comes with the Framework laptop works great)
 - Soldering iron or other similar heat press insert tool
+
+From the laptop itself you will need the following:
+
+- Mainboard
+- Expansion Cards
+- Audio Board
+- Wi-Fi Module
+- Wi-Fi Antenna (Highly recommended that you buy a new one from Framework for the build, the antennas are very thin and break easily when attempting to remove from the display housing)
+- Speakers
+- Display
+- Webcam and webcam ribbon cable
+- Display Hinge (Specifically the left one with the L stamped onto it) I havent tried the new high weight hinges so I don't know if they work. I designed using the original hinges.
 
 
 ## Print Settings:
