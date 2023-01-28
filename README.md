@@ -3,6 +3,8 @@
 
 I've used as many OEM Framework parts as possible.
 
+![Side](https://github.com/whatthefilament/Framework-AIO/blob/main/Images/Assembly%20Instruction%20Manual%20Pictures/IMG_1860.jpeg)
+
 ## Assembly
 
 [Build Instructions](https://www.instructables.com/Framework-AIO-Assembly/)
@@ -54,7 +56,8 @@ In addition to the stock desk stand i've also included a 75mm VESA mount option 
 I've uploaded the step files for the model as well, feel free to modify the design however you'd like. 
 
 #
-
+![Running](https://github.com/whatthefilament/Framework-AIO/blob/main/Images/Assembly%20Instruction%20Manual%20Pictures/IMG_1865.jpeg)
+![Back](https://github.com/whatthefilament/Framework-AIO/blob/main/Images/Assembly%20Instruction%20Manual%20Pictures/IMG_1863.jpeg)
 ![Back Render](https://github.com/whatthefilament/Framework-AIO/blob/main/Images/Framework%20AIO.jpg)
 ![Exploded 1](https://github.com/whatthefilament/Framework-AIO/blob/main/Images/Exploded1.jpg)
 ![Exploded 2](https://github.com/whatthefilament/Framework-AIO/blob/main/Images/Exploded2.jpg)
