@@ -35,8 +35,9 @@ From the laptop itself you will need the following:
 - Display
 - Webcam and webcam ribbon cable
 - Display Hinge (Specifically the left one with the L stamped onto it) I havent tried the new high weight hinges so I don't know if they work. I designed using the original hinges.
-
-
+#
+![Open Back](https://github.com/whatthefilament/Framework-AIO/blob/main/Images/Assembly%20Instruction%20Manual%20Pictures/IMG_1853.jpeg)
+#
 ## Print Settings:
 
 I recommend printing all case parts of either ASA or ABS as this provides the best heat resistance. PETG may also work but I have not fully tested it. 
