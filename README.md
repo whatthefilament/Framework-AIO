@@ -56,6 +56,8 @@ In addition to the stock desk stand i've also included a 75mm VESA mount option 
 I've uploaded the step files for the model as well, feel free to modify the design however you'd like. 
 
 #
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+#
 ![Running](https://github.com/whatthefilament/Framework-AIO/blob/main/Images/Assembly%20Instruction%20Manual%20Pictures/IMG_1865.jpeg)
 ![Back](https://github.com/whatthefilament/Framework-AIO/blob/main/Images/Assembly%20Instruction%20Manual%20Pictures/IMG_1863.jpeg)
 ![Back Render](https://github.com/whatthefilament/Framework-AIO/blob/main/Images/Framework%20AIO.jpg)
